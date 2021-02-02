@@ -20,7 +20,7 @@
   --keyword: rgb(197, 134, 192);
   --function-declaration: rgb(220, 220, 170);
   --variable: rgb(156, 220, 254);
-  --comment: rgb(106, 153, 85);
+  --comment: rgb(133, 133, 133);
 
   /* markdown */
   --heading: var(--language-constant);
